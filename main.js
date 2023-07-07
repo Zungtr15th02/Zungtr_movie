@@ -57,8 +57,8 @@ playButton.onclick = () => {
     myvideo.play();
 };
 
-// closebtn.onclick = () => {
-//   video.classList.remove("show-video"); 
+closebtn.onclick = () => {
+  video.classList.remove("show-video"); 
 
-//   myvideo.pause();
-// };
+  myvideo.pause();
+};
